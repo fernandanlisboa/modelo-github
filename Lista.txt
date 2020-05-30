@@ -1,0 +1,5 @@
+Compras:
+ - Arroz;
+ - Feijão;
+ - Farinha;
+ - Leite.
